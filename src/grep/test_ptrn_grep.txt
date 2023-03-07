@@ -1,0 +1,5 @@
+test
+^#include
+
+clean
+return
